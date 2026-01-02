@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Food idle",
+  "description": "Najlepsza gra idle tycoon. Zarządzaj kuchnią, ulepszaj stacje i buduj swoje imperium jedzeniowe.",
+  "version": "1.0.0",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
